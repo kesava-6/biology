@@ -1,0 +1,35 @@
+header{
+    text-align: center;
+    border: solid 2px;
+    border-radius: 15px;
+    background-color: rgba(240, 125, 53, 0.979);
+    color: rgb(255, 255, 255);
+    padding: auto;
+    font-size: 25px;
+}
+
+.description{
+    font-size: 2.1em;
+    font-weight: bold;
+
+}
+body{
+    background-color: rgb(241, 199, 172);
+}
+
+img{
+    border-radius: 15px;
+    transition: 0.6s;
+}
+img:hover{
+    transform: scale(1.1);
+}
+
+
+
+.picture{
+    margin:50px;
+    padding: 10px;
+    align-items: center;
+    display: inline-block;
+}

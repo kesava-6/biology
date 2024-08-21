@@ -1,0 +1,33 @@
+body{
+    background-color: rgb(205, 229, 250);}
+header{
+    text-align: center;
+    background-color: rgb(8, 158, 166);
+    border-radius: 5px;
+    font-size: 40px;
+    margin: 15px;
+    height: 100px;
+    color: rgb(209, 248, 248);
+}
+#biology{
+    margin: 10px;
+    padding: 13px;
+
+
+}
+#lessons{
+    height: auto;
+    width: auto;
+    font-size: 2.5em;
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(142, 199, 249);
+    transition: 0.5s;
+    color: black;
+}
+
+#lessons:hover{
+    transform: scale(1.05);
+    background-color: rgb(170, 210, 245);
+}

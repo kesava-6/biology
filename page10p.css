@@ -1,0 +1,29 @@
+body{
+    background-color:rgb(177, 224, 158)
+    
+}
+header{
+    text-align: center;
+    background-color: rgb(35, 121, 158);
+    border-radius: 5px;
+    font-size: 40px;
+    height: 100px;
+    color: rgb(212, 245, 245);
+}
+#physics{
+    margin: 10px;
+    padding: 10px;
+
+
+}
+#lessons{
+    height: auto;
+    width: auto;
+    font-size: 2.5em;
+    color: rgb(18, 20, 22);
+    margin: 15px;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgb(196, 219, 93);
+    box-shadow: 5px 5px 5px;
+}
